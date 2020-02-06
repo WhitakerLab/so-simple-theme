@@ -95,6 +95,8 @@ In his spare time, he loves taking photos, listening music and popularization of
 
 ### Sarah Gibson
 
+<img src="/images/sarah_gibson.png" alt="Sarah Gibson" width="50%" align="left" hspace="20" vspace="20">
+
 Sarah is a Research Software Engineer in the Research Engineering team at The Alan Turing Institute.
 Her work involves using software engineering and data science solutions and best practices to solve real world problems and bridge the gap between the cutting edges of academic and industrial research.
 Her specialism lies in cloud infrastructure for research reproducibility.
@@ -102,11 +104,9 @@ As a member of the Whitaker Lab, Sarah shares her passion for reproducible resea
 In her spare time, she enjoys music and cross-stitch.
 
 **More information:**
-* CV: *delete this row if you don't want to include this information*
-* GitHub: *delete this row if you don't want to include this information*
-* Twitter: *delete this row if you don't want to include this information*
-* ORCID: *delete this row if you don't want to include this information*
-* Email: *delete this row if you don't want to include this information*
+* GitHub: [@sgibson91](https://github.com/sgibson91)
+* Twitter: [@drsarahlgibson](https://twitter.com/drsarahlgibson)
+* ORCID: [0000-0003-0356-2765](https://orcid.org/0000-0003-0356-2765)
 
 ### Patricia Herterich
 
@@ -177,4 +177,3 @@ __More information:__
 * Twitter: [@IslaStaden](https://twitter.com/islastaden)
 * ORCID: *delete this row if you don't want to include this information*
 * Email: *delete this row if you don't want to include this information*
-
